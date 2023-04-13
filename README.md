@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikotamajapan
-- 👀 I’m interested in workout travel zumba diving
+- 👀 I’m interested in workout travel zumba diving ukulele
 - 🌱 I’m currently learning Django Python
 - 📫 How to reach me ... nikotamajapan@gmail.com
 
