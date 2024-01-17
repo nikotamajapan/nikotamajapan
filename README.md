@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikotamajapan
 - 👀 I’m interested in workout travel zumba diving ukulele
-- 🌱 I’m currently learning Django Python AWS Docker
+- 🌱 I’m currently learning Django Python AWS Docker Terraform
 - Rails React
 
 <!---
